@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookStoreUI</string>
+    <string name="Books">Books</string>
+    <string name="notification">Notification</string>
+    <string name="review">Reviews</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Settings</string>
+    <string name="my_name">Farah Hegazy</string>
+    <string name="notification_clicked">Notification Clicked</string>
+    <string name="review_clicked">Review Clicked</string>
+    <string name="favorite_clicked">Favorite Clicked</string>
+    <string name="setting_clicked">Setting Clicked</string>
+    <string name="profile_clicked">Profile Clicked</string>
+    <string name="search_clicked">Search Clicked</string>
+</resources>
